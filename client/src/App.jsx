@@ -1,6 +1,6 @@
 import { useState } from 'react';
 import Editor from './components/Editor';
-import Whiteboard from './components/WhiteBoard';
+import Whiteboard from './components/Whiteboard';
 import TabButton from './components/TabButton';
 
 function App() {
