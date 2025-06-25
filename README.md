@@ -52,28 +52,6 @@ A real-time collaboration web application built using the MERN stack (MongoDB, E
 
 Note: Make sure the backend is active; Render may take a few seconds to spin up.
 
-📸 Screenshots
-Add screenshots here if available (UI, Chat feature, room page, etc.)
+## 📄 License
 
-✨ Future Improvements
-✅ Typing indicators
-
-✅ File sharing
-
-🔒 Admin/moderator roles
-
-🧠 AI assistant for summarizing conversations
-
-👨‍💻 Author
-Sneh Yadav
-Portfolio • LinkedIn • GitHub
-
-Feel free to contribute or fork this project for your own use!
-
-yaml
-Copy
-Edit
-
----
-
-Let me know if you'd like me to include badges (e.g., GitHub stars, license, deployment status) or gene
+This project is licensed under the [MIT License](./LICENSE).
